@@ -1,0 +1,650 @@
+[
+  {
+    "sector": "Food & Beverages",
+    "company_id": "c_1",
+    "assessments": [
+      {
+        "requirement": "305-1",
+        "requirement_text": "Gross direct (Scope 1) GHG emissions # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Biogenic CO2 emissions # Source of the emission factors and the global warming potential (GWP) rates used # consolidation approach for emissions; whether equity share, financial control, or operational control.",
+        "alignment": "P",
+        "gaps": "Req 2: Gases included in the calculation; Req 3: Biogenic CO2 emissions; Req 4: Source of emission factors and GWP rates; Req 5: Consolidation approach for emissions."
+      },
+      {
+        "requirement": "305-2",
+        "requirement_text": "Gross location-based energy indirect (Scope 2) GHG emissions # gross market-based energy indirect (Scope 2) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-3",
+        "requirement_text": "Gross other indirect (Scope 3) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 , or all # Biogenic CO2 emissions # Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.",
+        "alignment": "P",
+        "gaps": "Req 2: Gases included in the calculation; Req 3: Biogenic CO2 emissions."
+      },
+      {
+        "requirement": "305-4",
+        "requirement_text": "GHG emissions intensity ratio for the organization # Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-5",
+        "requirement_text": "GHG emissions reduced as a direct result of reduction initiatives # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-6",
+        "requirement_text": "Production, imports, and exports of ozone-depleting substances (ODS) in metric tons of CFC-11 (trichlorofluoromethane) equivalent.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-7",
+        "requirement_text": "Significant air emissions, for each of the following: Nox, Sox, Persistent organic pollutants (POP), Volatile organic compounds (VOC), Hazardous air pollutants (HAP), Particulate matter (PM).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-4: P33",
+        "requirement_text": "For the disclosure required by paragraph 30, the undertaking shall disclose whether and how it has set GHG emissions reduction targets and/or any other targets to manage material climate-related impacts, risks and opportunities, for example, renewable energy deployment, energy efficiency, climate change adaptation, and physical or transition risk mitigation.",
+        "alignment": "P",
+        "gaps": "33: GHG reduction targets not mentioned"
+      },
+      {
+        "requirement": "E1-4: P34",
+        "requirement_text": "If the undertaking has set GHG emission reductiontargets , ESRS 2 MDR-T and the following requirements shall apply:\n(a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes of CO2eq or as a percentage of the emissions of a base year), and, where relevant, in intensity value;\",\n(b) \"GHG emission reduction targets shall be disclosed for Scope 1, 2 and 3 GHG emissions, either separately or combined. The undertaking shall specify, in case of combined GHG emission reduction targets, which GHG emission Scopes related to each respective GHG emission Scope and which GHGs are covered. The undertaking shall explain how the consistency of these targets with its GHG inventory boundaries is ensured (as required by Disclosure Requirement E1-6). The GHG emission reduction targets shall be gross targets, meaning that the undertaking shall not include GHG removals, carbon credits or avoided emissions as a means of achieving the GHG emission reduction targets;\",\n(c) \"The undertaking shall disclose its current base year and base value, and from 2030 onwards, update the base year for its GHG emission reduction targets after every five-year period thereafter. The undertaking may disclose the past progress made in meeting its targets before its current base year provided that this information is consistent with the requirements of this Standard;\",\n(d) \"GHG emission reduction targets shall at least include target values for the year 2030 and, if available, for the year 2050. From 2030, target values shall be set after every 5-year period thereafter;\",\n(e) \"The undertaking shall state whether the GHG emission reduction targets are science-based and compatible with limiting global warming to 1.5°C. The undertaking shall state which framework and methodology has been used to determine these targets including whether they are derived using a sectoral decarbonisation pathway and what the underlying climate and policy scenarios are and whether the targets have been externally assured. As part of the critical assumptions for setting GHG emission reduction targets, the undertaking shall briefly explain how it has considered future developments (e.g., changes in sales volumes, shifts in customer preferences and demand, regulatory factors, and new technologies) and how these will potentially impact both its GHG emissions and emissions reductions; and\n(f) \"the undertaking shall describe the expected decarbonisation levers and their overall quantitative contributions to achieve the GHG emission reduction targets (e.g., energy or material efficiency and consumption reduction, fuel switching, use of renewable energy , phase out or substitution of product and process)\"",
+        "alignment": "P",
+        "gaps": "34(c): Complete base values for all targets; 34(e): Methodology, climate scenarios, assumptions and external assurance; 34(f): Quantitative contribution of decarbonisation levers."
+      },
+      {
+        "requirement": "E1-6: P44",
+        "requirement_text": "The undertaking shall disclose in metric tonnes of CO2eq its: \n(a) gross Scope 1 GHG emissions,\n(b) gross Scope 2 GHG emissions,\n(c) gross Scope 3 GHG emissions, and\n(d) total GHG emissions.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P46",
+        "requirement_text": "In principle, the data on GHG emissions of its associates or joint ventures that are part of the undertaking’s upstream and downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its associates, joint ventures, or unconsolidated subsidiaries (investment entities) and contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), the undertaking shall include the GHG emissions in accordance with the extent of the undertaking’s operational control over them.",
+        "alignment": "N",
+        "gaps": "46: Operational-control treatment of associates and joint ventures"
+      },
+      {
+        "requirement": "E1-6: P47",
+        "requirement_text": "In case of significant changes in the definition of what constitutes the reporting undertaking and its upstream and downstream value chain, the undertaking shall disclose these changes and explain their effect on the year-to-year comparability of its reported GHG emissions (i.e., the effect on the comparability of current versus previous reporting period GHG emissions).",
+        "alignment": "N",
+        "gaps": "47: Detailed comparability impacts from reporting boundary changes"
+      },
+      {
+        "requirement": "E1-6: P48",
+        "requirement_text": "The disclosure on gross Scope 1 GHG emissions required shall include :\n(a)the gross Scope 1 GHG emissions in metric tonnes of CO2eq; and\n(b) the percentage of Scope 1 GHG emissions from regulated emission trading schemes.",
+        "alignment": "P",
+        "gaps": "48(b): Percentage of Scope 1 emissions under regulated emission trading schemes"
+      },
+      {
+        "requirement": "E1-6: P49",
+        "requirement_text": "The disclosure on gross Scope 2 GHG emissions required shall include:\n(a)the gross location-based Scope 2 GHG emissions in metric tonnes of CO2eq; and\n(b)the gross market-based Scope 2 GHG emissions in metric tonnes of CO2eq.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P50",
+        "requirement_text": "For Scope 1 and Scope 2 emissions disclosed as required, the undertaking shall disaggregate the information, separately disclosing emissions from:\n(a)the consolidated accounting group (the parent and subsidiaries); and,\n(b)investees such as associates, joint ventures, or unconsolidated subsidiaries that are not fully consolidated in the financial statements of the consolidated accounting group, as well as contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), for which it has operational control.",
+        "alignment": "N",
+        "gaps": "50(a): Consolidated group disaggregation; 50(b): Associates/JVs disaggregation"
+      },
+      {
+        "requirement": "E1-6: P51",
+        "requirement_text": "The disclosure of gross Scope 3 GHG emissions required shall include GHG emissions in metric tonnes of CO2eq from each significant Scope 3 category (i.e., each Scope 3 category that is a priority for the undertaking).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P52",
+        "requirement_text": "The disclosure of total GHG emissions required shall be the sum of Scope 1, 2 and 3 GHG emissions. The total GHG emissions shall be disclosed with a disaggregation that makes distinction of:\n(a)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the location-based method; and,\n(b)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the market-based method.",
+        "alignment": "F",
+        "gaps": "NA"
+      }
+    ]
+  },
+  {
+    "sector": "Technology & Communications",
+    "company_id": "c_2",
+    "assessments": [
+      {
+        "requirement": "305-1",
+        "requirement_text": "Gross direct (Scope 1) GHG emissions # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Biogenic CO2 emissions # Source of the emission factors and the global warming potential (GWP) rates used # consolidation approach for emissions; whether equity share, financial control, or operational control.",
+        "alignment": "P",
+        "gaps": "Req 2: Gases included in the calculation; Req 3: Biogenic CO2 emissions; Req 4: Source of emission factors and GWP rates; Req 5: Explicit consolidation approach for emissions."
+      },
+      {
+        "requirement": "305-2",
+        "requirement_text": "Gross location-based energy indirect (Scope 2) GHG emissions # gross market-based energy indirect (Scope 2) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3.",
+        "alignment": "P",
+        "gaps": "Req 1: Gross location-based Scope 2 emissions; Req 2: Explicit gross market-based Scope 2 emissions disclosure; Req 3: Gases included in the calculation."
+      },
+      {
+        "requirement": "305-3",
+        "requirement_text": "Gross other indirect (Scope 3) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 , or all # Biogenic CO2 emissions # Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.",
+        "alignment": "N",
+        "gaps": "Req 1: Gross Scope 3 emissions; Req 2: Gases included in the calculation; Req 3: Biogenic CO2 emissions; Req 4: Scope 3 categories and activities included in the calculation."
+      },
+      {
+        "requirement": "305-4",
+        "requirement_text": "GHG emissions intensity ratio for the organization # Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-5",
+        "requirement_text": "GHG emissions reduced as a direct result of reduction initiatives # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "P",
+        "gaps": "Req 1: Quantified emissions reduced from specific reduction initiatives; Req 2: Gases included in the calculation; Req 3: Explicit disclosure of scopes where reductions occurred."
+      },
+      {
+        "requirement": "305-6",
+        "requirement_text": "Production, imports, and exports of ozone-depleting substances (ODS) in metric tons of CFC-11 (trichlorofluoromethane) equivalent.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-7",
+        "requirement_text": "Significant air emissions, for each of the following: Nox, Sox, Persistent organic pollutants (POP), Volatile organic compounds (VOC), Hazardous air pollutants (HAP), Particulate matter (PM).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-4: P33",
+        "requirement_text": "For the disclosure required by paragraph 30, the undertaking shall disclose whether and how it has set GHG emissions reduction targets and/or any other targets to manage material climate-related impacts, risks and opportunities, for example, renewable energy deployment, energy efficiency, climate change adaptation, and physical or transition risk mitigation.",
+        "alignment": "P",
+        "gaps": "33: GHG climate-related targets"
+      },
+      {
+        "requirement": "E1-4: P34",
+        "requirement_text": "If the undertaking has set GHG emission reductiontargets , ESRS 2 MDR-T and the following requirements shall apply:\n(a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes of CO2eq or as a percentage of the emissions of a base year), and, where relevant, in intensity value;\",\n(b) \"GHG emission reduction targets shall be disclosed for Scope 1, 2 and 3 GHG emissions, either separately or combined. The undertaking shall specify, in case of combined GHG emission reduction targets, which GHG emission Scopes related to each respective GHG emission Scope and which GHGs are covered. The undertaking shall explain how the consistency of these targets with its GHG inventory boundaries is ensured (as required by Disclosure Requirement E1-6). The GHG emission reduction targets shall be gross targets, meaning that the undertaking shall not include GHG removals, carbon credits or avoided emissions as a means of achieving the GHG emission reduction targets;\",\n(c) \"The undertaking shall disclose its current base year and base value, and from 2030 onwards, update the base year for its GHG emission reduction targets after every five-year period thereafter. The undertaking may disclose the past progress made in meeting its targets before its current base year provided that this information is consistent with the requirements of this Standard;\",\n(d) \"GHG emission reduction targets shall at least include target values for the year 2030 and, if available, for the year 2050. From 2030, target values shall be set after every 5-year period thereafter;\",\n(e) \"The undertaking shall state whether the GHG emission reduction targets are science-based and compatible with limiting global warming to 1.5°C. The undertaking shall state which framework and methodology has been used to determine these targets including whether they are derived using a sectoral decarbonisation pathway and what the underlying climate and policy scenarios are and whether the targets have been externally assured. As part of the critical assumptions for setting GHG emission reduction targets, the undertaking shall briefly explain how it has considered future developments (e.g., changes in sales volumes, shifts in customer preferences and demand, regulatory factors, and new technologies) and how these will potentially impact both its GHG emissions and emissions reductions; and\n(f) \"the undertaking shall describe the expected decarbonisation levers and their overall quantitative contributions to achieve the GHG emission reduction targets (e.g., energy or material efficiency and consumption reduction, fuel switching, use of renewable energy , phase out or substitution of product and process)\"",
+        "alignment": "P",
+        "gaps": "34(a): Absolute and/or intensity target values; 34(b): Scope 1, 2 and 3 target coverage; 34(c): Base year values; 34(d): 2030 and/or 2050 target values; 34(e): Science-based status, methodology, assumptions, scenarios and assurance; 34(f): Quantitative contribution of decarbonisation levers."
+      },
+      {
+        "requirement": "E1-6: P44",
+        "requirement_text": "The undertaking shall disclose in metric tonnes of CO2eq its: \n(a) gross Scope 1 GHG emissions,\n(b) gross Scope 2 GHG emissions,\n(c) gross Scope 3 GHG emissions, and\n(d) total GHG emissions.",
+        "alignment": "P",
+        "gaps": "44(c): Gross Scope 3 GHG emissions"
+      },
+      {
+        "requirement": "E1-6: P46",
+        "requirement_text": "In principle, the data on GHG emissions of its associates or joint ventures that are part of the undertaking’s upstream and downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its associates, joint ventures, or unconsolidated subsidiaries (investment entities) and contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), the undertaking shall include the GHG emissions in accordance with the extent of the undertaking’s operational control over them.",
+        "alignment": "N",
+        "gaps": "46: Treatment of associates, joint ventures and unconsolidated subsidiaries"
+      },
+      {
+        "requirement": "E1-6: P47",
+        "requirement_text": "In case of significant changes in the definition of what constitutes the reporting undertaking and its upstream and downstream value chain, the undertaking shall disclose these changes and explain their effect on the year-to-year comparability of its reported GHG emissions (i.e., the effect on the comparability of current versus previous reporting period GHG emissions).",
+        "alignment": "P",
+        "gaps": "47: Reporting boundary changes and comparability impacts"
+      },
+      {
+        "requirement": "E1-6: P48",
+        "requirement_text": "The disclosure on gross Scope 1 GHG emissions required shall include :\n(a)the gross Scope 1 GHG emissions in metric tonnes of CO2eq; and\n(b) the percentage of Scope 1 GHG emissions from regulated emission trading schemes.",
+        "alignment": "P",
+        "gaps": "48(b): Percentage of Scope 1 emissions from regulated emission trading schemes"
+      },
+      {
+        "requirement": "E1-6: P49",
+        "requirement_text": "The disclosure on gross Scope 2 GHG emissions required shall include:\n(a)the gross location-based Scope 2 GHG emissions in metric tonnes of CO2eq; and\n(b)the gross market-based Scope 2 GHG emissions in metric tonnes of CO2eq.",
+        "alignment": "N",
+        "gaps": "49(a): Gross location-based Scope 2 emissions; 49(b): Explicit market-based Scope 2 emissions disclosure"
+      },
+      {
+        "requirement": "E1-6: P50",
+        "requirement_text": "For Scope 1 and Scope 2 emissions disclosed as required, the undertaking shall disaggregate the information, separately disclosing emissions from:\n(a)the consolidated accounting group (the parent and subsidiaries); and,\n(b)investees such as associates, joint ventures, or unconsolidated subsidiaries that are not fully consolidated in the financial statements of the consolidated accounting group, as well as contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), for which it has operational control.",
+        "alignment": "N",
+        "gaps": "50(a): Consolidated accounting group disaggregation; 50(b): Associates/JVs/unconsolidated entities disaggregation"
+      },
+      {
+        "requirement": "E1-6: P51",
+        "requirement_text": "The disclosure of gross Scope 3 GHG emissions required shall include GHG emissions in metric tonnes of CO2eq from each significant Scope 3 category (i.e., each Scope 3 category that is a priority for the undertaking).",
+        "alignment": "N",
+        "gaps": "51: Significant Scope 3 category emissions; 52(a): Total emissions using location-based methodology"
+      },
+      {
+        "requirement": "E1-6: P52",
+        "requirement_text": "The disclosure of total GHG emissions required shall be the sum of Scope 1, 2 and 3 GHG emissions. The total GHG emissions shall be disclosed with a disaggregation that makes distinction of:\n(a)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the location-based method; and,\n(b)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the market-based method.",
+        "alignment": "N",
+        "gaps": "52(b): Total emissions using market-based methodology."
+      }
+    ]
+  },
+  {
+    "sector": "HealthCare",
+    "company_id": "c_3",
+    "assessments": [
+      {
+        "requirement": "305-1",
+        "requirement_text": "Gross direct (Scope 1) GHG emissions # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Biogenic CO2 emissions # Source of the emission factors and the global warming potential (GWP) rates used # consolidation approach for emissions; whether equity share, financial control, or operational control.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-2",
+        "requirement_text": "Gross location-based energy indirect (Scope 2) GHG emissions # gross market-based energy indirect (Scope 2) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-3",
+        "requirement_text": "Gross other indirect (Scope 3) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 , or all # Biogenic CO2 emissions # Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-4",
+        "requirement_text": "GHG emissions intensity ratio for the organization # Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "P",
+        "gaps": "Req 2: Explicit disclosure of emission scopes included in the intensity ratio"
+      },
+      {
+        "requirement": "305-5",
+        "requirement_text": "GHG emissions reduced as a direct result of reduction initiatives # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "P",
+        "gaps": "Req 1: Quantified emissions reduced directly from reduction initiatives; Req 2: Complete gases included in reduction calculations."
+      },
+      {
+        "requirement": "305-6",
+        "requirement_text": "Production, imports, and exports of ozone-depleting substances (ODS) in metric tons of CFC-11 (trichlorofluoromethane) equivalent.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-7",
+        "requirement_text": "Significant air emissions, for each of the following: Nox, Sox, Persistent organic pollutants (POP), Volatile organic compounds (VOC), Hazardous air pollutants (HAP), Particulate matter (PM).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-4: P33",
+        "requirement_text": "For the disclosure required by paragraph 30, the undertaking shall disclose whether and how it has set GHG emissions reduction targets and/or any other targets to manage material climate-related impacts, risks and opportunities, for example, renewable energy deployment, energy efficiency, climate change adaptation, and physical or transition risk mitigation.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-4: P34",
+        "requirement_text": "If the undertaking has set GHG emission reductiontargets , ESRS 2 MDR-T and the following requirements shall apply:\n(a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes of CO2eq or as a percentage of the emissions of a base year), and, where relevant, in intensity value;\",\n(b) \"GHG emission reduction targets shall be disclosed for Scope 1, 2 and 3 GHG emissions, either separately or combined. The undertaking shall specify, in case of combined GHG emission reduction targets, which GHG emission Scopes related to each respective GHG emission Scope and which GHGs are covered. The undertaking shall explain how the consistency of these targets with its GHG inventory boundaries is ensured (as required by Disclosure Requirement E1-6). The GHG emission reduction targets shall be gross targets, meaning that the undertaking shall not include GHG removals, carbon credits or avoided emissions as a means of achieving the GHG emission reduction targets;\",\n(c) \"The undertaking shall disclose its current base year and base value, and from 2030 onwards, update the base year for its GHG emission reduction targets after every five-year period thereafter. The undertaking may disclose the past progress made in meeting its targets before its current base year provided that this information is consistent with the requirements of this Standard;\",\n(d) \"GHG emission reduction targets shall at least include target values for the year 2030 and, if available, for the year 2050. From 2030, target values shall be set after every 5-year period thereafter;\",\n(e) \"The undertaking shall state whether the GHG emission reduction targets are science-based and compatible with limiting global warming to 1.5°C. The undertaking shall state which framework and methodology has been used to determine these targets including whether they are derived using a sectoral decarbonisation pathway and what the underlying climate and policy scenarios are and whether the targets have been externally assured. As part of the critical assumptions for setting GHG emission reduction targets, the undertaking shall briefly explain how it has considered future developments (e.g., changes in sales volumes, shifts in customer preferences and demand, regulatory factors, and new technologies) and how these will potentially impact both its GHG emissions and emissions reductions; and\n(f) \"the undertaking shall describe the expected decarbonisation levers and their overall quantitative contributions to achieve the GHG emission reduction targets (e.g., energy or material efficiency and consumption reduction, fuel switching, use of renewable energy , phase out or substitution of product and process)\"",
+        "alignment": "P",
+        "gaps": "34(a): Absolute target values; 34(b): Scope 3 target coverage; 34(e): Science-based alignment, methodology, assumptions, scenarios and assurance; 34(f): Quantitative contribution of decarbonisation levers."
+      },
+      {
+        "requirement": "E1-6: P44",
+        "requirement_text": "The undertaking shall disclose in metric tonnes of CO2eq its: \n(a) gross Scope 1 GHG emissions,\n(b) gross Scope 2 GHG emissions,\n(c) gross Scope 3 GHG emissions, and\n(d) total GHG emissions.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P46",
+        "requirement_text": "In principle, the data on GHG emissions of its associates or joint ventures that are part of the undertaking’s upstream and downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its associates, joint ventures, or unconsolidated subsidiaries (investment entities) and contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), the undertaking shall include the GHG emissions in accordance with the extent of the undertaking’s operational control over them.",
+        "alignment": "N",
+        "gaps": "46: Treatment of associates, joint ventures and unconsolidated subsidiaries"
+      },
+      {
+        "requirement": "E1-6: P47",
+        "requirement_text": "In case of significant changes in the definition of what constitutes the reporting undertaking and its upstream and downstream value chain, the undertaking shall disclose these changes and explain their effect on the year-to-year comparability of its reported GHG emissions (i.e., the effect on the comparability of current versus previous reporting period GHG emissions).",
+        "alignment": "P",
+        "gaps": "47: Reporting boundary changes and comparability impacts"
+      },
+      {
+        "requirement": "E1-6: P48",
+        "requirement_text": "The disclosure on gross Scope 1 GHG emissions required shall include :\n(a)the gross Scope 1 GHG emissions in metric tonnes of CO2eq; and\n(b) the percentage of Scope 1 GHG emissions from regulated emission trading schemes.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P49",
+        "requirement_text": "The disclosure on gross Scope 2 GHG emissions required shall include:\n(a)the gross location-based Scope 2 GHG emissions in metric tonnes of CO2eq; and\n(b)the gross market-based Scope 2 GHG emissions in metric tonnes of CO2eq.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P50",
+        "requirement_text": "For Scope 1 and Scope 2 emissions disclosed as required, the undertaking shall disaggregate the information, separately disclosing emissions from:\n(a)the consolidated accounting group (the parent and subsidiaries); and,\n(b)investees such as associates, joint ventures, or unconsolidated subsidiaries that are not fully consolidated in the financial statements of the consolidated accounting group, as well as contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), for which it has operational control.",
+        "alignment": "P",
+        "gaps": "50(a): ESRS-required disaggregation for consolidated accounting group"
+      },
+      {
+        "requirement": "E1-6: P51",
+        "requirement_text": "The disclosure of gross Scope 3 GHG emissions required shall include GHG emissions in metric tonnes of CO2eq from each significant Scope 3 category (i.e., each Scope 3 category that is a priority for the undertaking).",
+        "alignment": "P",
+        "gaps": "51: Complete significant Scope 3 category breakdown."
+      },
+      {
+        "requirement": "E1-6: P52",
+        "requirement_text": "The disclosure of total GHG emissions required shall be the sum of Scope 1, 2 and 3 GHG emissions. The total GHG emissions shall be disclosed with a disaggregation that makes distinction of:\n(a)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the location-based method; and,\n(b)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the market-based method.",
+        "alignment": "P",
+        "gaps": "52(b): Total emissions using market-based methodology."
+      }
+    ]
+  },
+  {
+    "sector": "Extractives & Minerals Processing",
+    "company_id": "c_4",
+    "assessments": [
+      {
+        "requirement": "305-1",
+        "requirement_text": "Gross direct (Scope 1) GHG emissions # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Biogenic CO2 emissions # Source of the emission factors and the global warming potential (GWP) rates used # consolidation approach for emissions; whether equity share, financial control, or operational control.",
+        "alignment": "P",
+        "gaps": "Req 2: Gases included in the calculation; Req 3: Biogenic CO2 emissions; Req 4: Source of emission factors and GWP rates; Req 5: Consolidation approach for emissions."
+      },
+      {
+        "requirement": "305-2",
+        "requirement_text": "Gross location-based energy indirect (Scope 2) GHG emissions # gross market-based energy indirect (Scope 2) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3.",
+        "alignment": "P",
+        "gaps": "Req 2: Gross market-based Scope 2 emissions; Req 3: Gases included in the calculation."
+      },
+      {
+        "requirement": "305-3",
+        "requirement_text": "Gross other indirect (Scope 3) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 , or all # Biogenic CO2 emissions # Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.",
+        "alignment": "N",
+        "gaps": "Req 1: Gross Scope 3 emissions; Req 2: Gases included in the calculation; Req 3: Biogenic CO2 emissions; Req 4: Quantified Scope 3 categories and activities."
+      },
+      {
+        "requirement": "305-4",
+        "requirement_text": "GHG emissions intensity ratio for the organization # Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-5",
+        "requirement_text": "GHG emissions reduced as a direct result of reduction initiatives # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-6",
+        "requirement_text": "Production, imports, and exports of ozone-depleting substances (ODS) in metric tons of CFC-11 (trichlorofluoromethane) equivalent.",
+        "alignment": "N",
+        "gaps": "Req 1: Production, imports and exports of ODS in metric tons of CFC-11 equivalent."
+      },
+      {
+        "requirement": "305-7",
+        "requirement_text": "Significant air emissions, for each of the following: Nox, Sox, Persistent organic pollutants (POP), Volatile organic compounds (VOC), Hazardous air pollutants (HAP), Particulate matter (PM).",
+        "alignment": "N",
+        "gaps": "Req 1: NOx, SOx, POP, VOC, HAP and PM emissions."
+      },
+      {
+        "requirement": "E1-4: P33",
+        "requirement_text": "For the disclosure required by paragraph 30, the undertaking shall disclose whether and how it has set GHG emissions reduction targets and/or any other targets to manage material climate-related impacts, risks and opportunities, for example, renewable energy deployment, energy efficiency, climate change adaptation, and physical or transition risk mitigation.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-4: P34",
+        "requirement_text": "If the undertaking has set GHG emission reductiontargets , ESRS 2 MDR-T and the following requirements shall apply:\n(a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes of CO2eq or as a percentage of the emissions of a base year), and, where relevant, in intensity value;\",\n(b) \"GHG emission reduction targets shall be disclosed for Scope 1, 2 and 3 GHG emissions, either separately or combined. The undertaking shall specify, in case of combined GHG emission reduction targets, which GHG emission Scopes related to each respective GHG emission Scope and which GHGs are covered. The undertaking shall explain how the consistency of these targets with its GHG inventory boundaries is ensured (as required by Disclosure Requirement E1-6). The GHG emission reduction targets shall be gross targets, meaning that the undertaking shall not include GHG removals, carbon credits or avoided emissions as a means of achieving the GHG emission reduction targets;\",\n(c) \"The undertaking shall disclose its current base year and base value, and from 2030 onwards, update the base year for its GHG emission reduction targets after every five-year period thereafter. The undertaking may disclose the past progress made in meeting its targets before its current base year provided that this information is consistent with the requirements of this Standard;\",\n(d) \"GHG emission reduction targets shall at least include target values for the year 2030 and, if available, for the year 2050. From 2030, target values shall be set after every 5-year period thereafter;\",\n(e) \"The undertaking shall state whether the GHG emission reduction targets are science-based and compatible with limiting global warming to 1.5°C. The undertaking shall state which framework and methodology has been used to determine these targets including whether they are derived using a sectoral decarbonisation pathway and what the underlying climate and policy scenarios are and whether the targets have been externally assured. As part of the critical assumptions for setting GHG emission reduction targets, the undertaking shall briefly explain how it has considered future developments (e.g., changes in sales volumes, shifts in customer preferences and demand, regulatory factors, and new technologies) and how these will potentially impact both its GHG emissions and emissions reductions; and\n(f) \"the undertaking shall describe the expected decarbonisation levers and their overall quantitative contributions to achieve the GHG emission reduction targets (e.g., energy or material efficiency and consumption reduction, fuel switching, use of renewable energy , phase out or substitution of product and process)\"",
+        "alignment": "P",
+        "gaps": "34(a): Absolute target values; 34(b): Scope 3 target coverage and GHG coverage; 34(e): Science-based alignment, methodology, scenarios, assumptions and external assurance; 34(f): Quantitative contribution of decarbonisation levers."
+      },
+      {
+        "requirement": "E1-6: P44",
+        "requirement_text": "The undertaking shall disclose in metric tonnes of CO2eq its: \n(a) gross Scope 1 GHG emissions,\n(b) gross Scope 2 GHG emissions,\n(c) gross Scope 3 GHG emissions, and\n(d) total GHG emissions.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P46",
+        "requirement_text": "In principle, the data on GHG emissions of its associates or joint ventures that are part of the undertaking’s upstream and downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its associates, joint ventures, or unconsolidated subsidiaries (investment entities) and contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), the undertaking shall include the GHG emissions in accordance with the extent of the undertaking’s operational control over them.",
+        "alignment": "N",
+        "gaps": "46: Operational-control treatment of associates and joint ventures"
+      },
+      {
+        "requirement": "E1-6: P47",
+        "requirement_text": "In case of significant changes in the definition of what constitutes the reporting undertaking and its upstream and downstream value chain, the undertaking shall disclose these changes and explain their effect on the year-to-year comparability of its reported GHG emissions (i.e., the effect on the comparability of current versus previous reporting period GHG emissions).",
+        "alignment": "N",
+        "gaps": "47: Reporting boundary changes and comparability impacts"
+      },
+      {
+        "requirement": "E1-6: P48",
+        "requirement_text": "The disclosure on gross Scope 1 GHG emissions required shall include :\n(a)the gross Scope 1 GHG emissions in metric tonnes of CO2eq; and\n(b) the percentage of Scope 1 GHG emissions from regulated emission trading schemes.",
+        "alignment": "P",
+        "gaps": "48(b): Percentage of Scope 1 emissions under emission trading schemes"
+      },
+      {
+        "requirement": "E1-6: P49",
+        "requirement_text": "The disclosure on gross Scope 2 GHG emissions required shall include:\n(a)the gross location-based Scope 2 GHG emissions in metric tonnes of CO2eq; and\n(b)the gross market-based Scope 2 GHG emissions in metric tonnes of CO2eq.",
+        "alignment": "P",
+        "gaps": "49(b): Market-based Scope 2 emissions"
+      },
+      {
+        "requirement": "E1-6: P50",
+        "requirement_text": "For Scope 1 and Scope 2 emissions disclosed as required, the undertaking shall disaggregate the information, separately disclosing emissions from:\n(a)the consolidated accounting group (the parent and subsidiaries); and,\n(b)investees such as associates, joint ventures, or unconsolidated subsidiaries that are not fully consolidated in the financial statements of the consolidated accounting group, as well as contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), for which it has operational control.",
+        "alignment": "N",
+        "gaps": "50(a): Consolidated group disaggregation; 50(b): Associates/JVs disaggregation"
+      },
+      {
+        "requirement": "E1-6: P51",
+        "requirement_text": "The disclosure of gross Scope 3 GHG emissions required shall include GHG emissions in metric tonnes of CO2eq from each significant Scope 3 category (i.e., each Scope 3 category that is a priority for the undertaking).",
+        "alignment": "N",
+        "gaps": "51: Quantified Scope 3 category emissions"
+      },
+      {
+        "requirement": "E1-6: P52",
+        "requirement_text": "The disclosure of total GHG emissions required shall be the sum of Scope 1, 2 and 3 GHG emissions. The total GHG emissions shall be disclosed with a disaggregation that makes distinction of:\n(a)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the location-based method; and,\n(b)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the market-based method.",
+        "alignment": "P",
+        "gaps": "52(a): Total emissions using required location-based methodology distinction"
+      }
+    ]
+  },
+  {
+    "sector": "Transportation",
+    "company_id": "c_5",
+    "assessments": [
+      {
+        "requirement": "305-1",
+        "requirement_text": "Gross direct (Scope 1) GHG emissions # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Biogenic CO2 emissions # Source of the emission factors and the global warming potential (GWP) rates used # consolidation approach for emissions; whether equity share, financial control, or operational control.",
+        "alignment": "P",
+        "gaps": "Req 2: HFCs, PFCs, SF6 and NF3 coverage; Req 3: Biogenic CO2 emissions; Req 4: Source of emission factors and GWP rates."
+      },
+      {
+        "requirement": "305-2",
+        "requirement_text": "Gross location-based energy indirect (Scope 2) GHG emissions # gross market-based energy indirect (Scope 2) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3.",
+        "alignment": "P",
+        "gaps": "Req 2: Gross market-based Scope 2 emissions; Req 3: Gases included in the calculation."
+      },
+      {
+        "requirement": "305-3",
+        "requirement_text": "Gross other indirect (Scope 3) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 , or all # Biogenic CO2 emissions # Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.",
+        "alignment": "P",
+        "gaps": "Req 2: Complete gases included in the calculation; Req 3: Biogenic CO2 emissions."
+      },
+      {
+        "requirement": "305-4",
+        "requirement_text": "GHG emissions intensity ratio for the organization # Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-5",
+        "requirement_text": "GHG emissions reduced as a direct result of reduction initiatives # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "P",
+        "gaps": "Req 1: Quantified emissions reduced through specific initiatives; Req 2: Gases included in the calculation."
+      },
+      {
+        "requirement": "305-6",
+        "requirement_text": "Production, imports, and exports of ozone-depleting substances (ODS) in metric tons of CFC-11 (trichlorofluoromethane) equivalent.",
+        "alignment": "N",
+        "gaps": "Req 1: Production, imports and exports of ODS in metric tons of CFC-11 equivalent."
+      },
+      {
+        "requirement": "305-7",
+        "requirement_text": "Significant air emissions, for each of the following: Nox, Sox, Persistent organic pollutants (POP), Volatile organic compounds (VOC), Hazardous air pollutants (HAP), Particulate matter (PM).",
+        "alignment": "P",
+        "gaps": "Req 1: NOx, SOx, POP, VOC, HAP and PM emissions."
+      },
+      {
+        "requirement": "E1-4: P33",
+        "requirement_text": "For the disclosure required by paragraph 30, the undertaking shall disclose whether and how it has set GHG emissions reduction targets and/or any other targets to manage material climate-related impacts, risks and opportunities, for example, renewable energy deployment, energy efficiency, climate change adaptation, and physical or transition risk mitigation.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-4: P34",
+        "requirement_text": "If the undertaking has set GHG emission reductiontargets , ESRS 2 MDR-T and the following requirements shall apply:\n(a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes of CO2eq or as a percentage of the emissions of a base year), and, where relevant, in intensity value;\",\n(b) \"GHG emission reduction targets shall be disclosed for Scope 1, 2 and 3 GHG emissions, either separately or combined. The undertaking shall specify, in case of combined GHG emission reduction targets, which GHG emission Scopes related to each respective GHG emission Scope and which GHGs are covered. The undertaking shall explain how the consistency of these targets with its GHG inventory boundaries is ensured (as required by Disclosure Requirement E1-6). The GHG emission reduction targets shall be gross targets, meaning that the undertaking shall not include GHG removals, carbon credits or avoided emissions as a means of achieving the GHG emission reduction targets;\",\n(c) \"The undertaking shall disclose its current base year and base value, and from 2030 onwards, update the base year for its GHG emission reduction targets after every five-year period thereafter. The undertaking may disclose the past progress made in meeting its targets before its current base year provided that this information is consistent with the requirements of this Standard;\",\n(d) \"GHG emission reduction targets shall at least include target values for the year 2030 and, if available, for the year 2050. From 2030, target values shall be set after every 5-year period thereafter;\",\n(e) \"The undertaking shall state whether the GHG emission reduction targets are science-based and compatible with limiting global warming to 1.5°C. The undertaking shall state which framework and methodology has been used to determine these targets including whether they are derived using a sectoral decarbonisation pathway and what the underlying climate and policy scenarios are and whether the targets have been externally assured. As part of the critical assumptions for setting GHG emission reduction targets, the undertaking shall briefly explain how it has considered future developments (e.g., changes in sales volumes, shifts in customer preferences and demand, regulatory factors, and new technologies) and how these will potentially impact both its GHG emissions and emissions reductions; and\n(f) \"the undertaking shall describe the expected decarbonisation levers and their overall quantitative contributions to achieve the GHG emission reduction targets (e.g., energy or material efficiency and consumption reduction, fuel switching, use of renewable energy , phase out or substitution of product and process)\"",
+        "alignment": "P",
+        "gaps": "34(b): Scope 3 target coverage; 34(e): Science-based status, methodology, assumptions, scenarios and assurance; 34(f): Quantitative contribution of decarbonisation levers."
+      },
+      {
+        "requirement": "E1-6: P44",
+        "requirement_text": "The undertaking shall disclose in metric tonnes of CO2eq its: \n(a) gross Scope 1 GHG emissions,\n(b) gross Scope 2 GHG emissions,\n(c) gross Scope 3 GHG emissions, and\n(d) total GHG emissions.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P46",
+        "requirement_text": "In principle, the data on GHG emissions of its associates or joint ventures that are part of the undertaking’s upstream and downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its associates, joint ventures, or unconsolidated subsidiaries (investment entities) and contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), the undertaking shall include the GHG emissions in accordance with the extent of the undertaking’s operational control over them.",
+        "alignment": "N",
+        "gaps": "#VALUE!"
+      },
+      {
+        "requirement": "E1-6: P47",
+        "requirement_text": "In case of significant changes in the definition of what constitutes the reporting undertaking and its upstream and downstream value chain, the undertaking shall disclose these changes and explain their effect on the year-to-year comparability of its reported GHG emissions (i.e., the effect on the comparability of current versus previous reporting period GHG emissions).",
+        "alignment": "P",
+        "gaps": "47: Reporting boundary changes and comparability impacts"
+      },
+      {
+        "requirement": "E1-6: P48",
+        "requirement_text": "The disclosure on gross Scope 1 GHG emissions required shall include :\n(a)the gross Scope 1 GHG emissions in metric tonnes of CO2eq; and\n(b) the percentage of Scope 1 GHG emissions from regulated emission trading schemes.",
+        "alignment": "P",
+        "gaps": "48(b): Percentage of Scope 1 emissions from regulated emission trading schemes"
+      },
+      {
+        "requirement": "E1-6: P49",
+        "requirement_text": "The disclosure on gross Scope 2 GHG emissions required shall include:\n(a)the gross location-based Scope 2 GHG emissions in metric tonnes of CO2eq; and\n(b)the gross market-based Scope 2 GHG emissions in metric tonnes of CO2eq.",
+        "alignment": "P",
+        "gaps": "49(b): Market-based Scope 2 emissions"
+      },
+      {
+        "requirement": "E1-6: P50",
+        "requirement_text": "For Scope 1 and Scope 2 emissions disclosed as required, the undertaking shall disaggregate the information, separately disclosing emissions from:\n(a)the consolidated accounting group (the parent and subsidiaries); and,\n(b)investees such as associates, joint ventures, or unconsolidated subsidiaries that are not fully consolidated in the financial statements of the consolidated accounting group, as well as contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), for which it has operational control.",
+        "alignment": "N",
+        "gaps": "50(a): Consolidated accounting group disaggregation; 50(b): Associates/JVs/unconsolidated entities disaggregation"
+      },
+      {
+        "requirement": "E1-6: P51",
+        "requirement_text": "The disclosure of gross Scope 3 GHG emissions required shall include GHG emissions in metric tonnes of CO2eq from each significant Scope 3 category (i.e., each Scope 3 category that is a priority for the undertaking).",
+        "alignment": "P",
+        "gaps": "51: Complete significant Scope 3 category disclosure"
+      },
+      {
+        "requirement": "E1-6: P52",
+        "requirement_text": "The disclosure of total GHG emissions required shall be the sum of Scope 1, 2 and 3 GHG emissions. The total GHG emissions shall be disclosed with a disaggregation that makes distinction of:\n(a)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the location-based method; and,\n(b)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the market-based method.",
+        "alignment": "P",
+        "gaps": "52(a): Total emissions using location-based methodology"
+      }
+    ]
+  },
+  {
+    "sector": "Services",
+    "company_id": "c_6",
+    "assessments": [
+      {
+        "requirement": "305-1",
+        "requirement_text": "Gross direct (Scope 1) GHG emissions # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Biogenic CO2 emissions # Source of the emission factors and the global warming potential (GWP) rates used # consolidation approach for emissions; whether equity share, financial control, or operational control.",
+        "alignment": "P",
+        "gaps": "Req 4: Global warming potential (GWP) rates used."
+      },
+      {
+        "requirement": "305-2",
+        "requirement_text": "Gross location-based energy indirect (Scope 2) GHG emissions # gross market-based energy indirect (Scope 2) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-3",
+        "requirement_text": "Gross other indirect (Scope 3) GHG emissions # the gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 , or all # Biogenic CO2 emissions # Other indirect (Scope 3) GHG emissions categories and activities included in the calculation.",
+        "alignment": "P",
+        "gaps": "Req 2: Explicit disclosure of gases included in Scope 3 calculations; Req 3: Biogenic CO2 emissions for Scope 3."
+      },
+      {
+        "requirement": "305-4",
+        "requirement_text": "GHG emissions intensity ratio for the organization # Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "305-5",
+        "requirement_text": "GHG emissions reduced as a direct result of reduction initiatives # Gases included in the calculation; whether CO2 , CH4 , N2 O, HFCs, PFCs, SF6 , NF3 # Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect (Scope 3).",
+        "alignment": "N",
+        "gaps": "Req 1: Emissions reduced as a direct result of reduction initiatives; Req 2: Gases included in reduction calculations; Req 3: Scopes in which reductions took place."
+      },
+      {
+        "requirement": "305-6",
+        "requirement_text": "Production, imports, and exports of ozone-depleting substances (ODS) in metric tons of CFC-11 (trichlorofluoromethane) equivalent.",
+        "alignment": "N",
+        "gaps": "Req 1: Production, imports and exports of ODS in metric tons of CFC-11 equivalent."
+      },
+      {
+        "requirement": "305-7",
+        "requirement_text": "Significant air emissions, for each of the following: Nox, Sox, Persistent organic pollutants (POP), Volatile organic compounds (VOC), Hazardous air pollutants (HAP), Particulate matter (PM).",
+        "alignment": "N",
+        "gaps": "Req 1: NOx, SOx, POP, VOC, HAP and PM emissions."
+      },
+      {
+        "requirement": "E1-4: P33",
+        "requirement_text": "For the disclosure required by paragraph 30, the undertaking shall disclose whether and how it has set GHG emissions reduction targets and/or any other targets to manage material climate-related impacts, risks and opportunities, for example, renewable energy deployment, energy efficiency, climate change adaptation, and physical or transition risk mitigation.",
+        "alignment": "P",
+        "gaps": "33: GHG climate-related targets"
+      },
+      {
+        "requirement": "E1-4: P34",
+        "requirement_text": "If the undertaking has set GHG emission reductiontargets , ESRS 2 MDR-T and the following requirements shall apply:\n(a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes of CO2eq or as a percentage of the emissions of a base year), and, where relevant, in intensity value;\",\n(b) \"GHG emission reduction targets shall be disclosed for Scope 1, 2 and 3 GHG emissions, either separately or combined. The undertaking shall specify, in case of combined GHG emission reduction targets, which GHG emission Scopes related to each respective GHG emission Scope and which GHGs are covered. The undertaking shall explain how the consistency of these targets with its GHG inventory boundaries is ensured (as required by Disclosure Requirement E1-6). The GHG emission reduction targets shall be gross targets, meaning that the undertaking shall not include GHG removals, carbon credits or avoided emissions as a means of achieving the GHG emission reduction targets;\",\n(c) \"The undertaking shall disclose its current base year and base value, and from 2030 onwards, update the base year for its GHG emission reduction targets after every five-year period thereafter. The undertaking may disclose the past progress made in meeting its targets before its current base year provided that this information is consistent with the requirements of this Standard;\",\n(d) \"GHG emission reduction targets shall at least include target values for the year 2030 and, if available, for the year 2050. From 2030, target values shall be set after every 5-year period thereafter;\",\n(e) \"The undertaking shall state whether the GHG emission reduction targets are science-based and compatible with limiting global warming to 1.5°C. The undertaking shall state which framework and methodology has been used to determine these targets including whether they are derived using a sectoral decarbonisation pathway and what the underlying climate and policy scenarios are and whether the targets have been externally assured. As part of the critical assumptions for setting GHG emission reduction targets, the undertaking shall briefly explain how it has considered future developments (e.g., changes in sales volumes, shifts in customer preferences and demand, regulatory factors, and new technologies) and how these will potentially impact both its GHG emissions and emissions reductions; and\n(f) \"the undertaking shall describe the expected decarbonisation levers and their overall quantitative contributions to achieve the GHG emission reduction targets (e.g., energy or material efficiency and consumption reduction, fuel switching, use of renewable energy , phase out or substitution of product and process)\"",
+        "alignment": "P",
+        "gaps": "34(a): Absolute and/or intensity targets; 34(b): Scope 1, 2 and 3 target coverage; 34(c): Base year and base value; 34(d): 2030 and/or 2050 targets; 34(e): Science-based status, methodology, assumptions, scenarios and assurance; 34(f): Decarbonisation levers and quantitative contributions."
+      },
+      {
+        "requirement": "E1-6: P44",
+        "requirement_text": "The undertaking shall disclose in metric tonnes of CO2eq its: \n(a) gross Scope 1 GHG emissions,\n(b) gross Scope 2 GHG emissions,\n(c) gross Scope 3 GHG emissions, and\n(d) total GHG emissions.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P46",
+        "requirement_text": "In principle, the data on GHG emissions of its associates or joint ventures that are part of the undertaking’s upstream and downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its associates, joint ventures, or unconsolidated subsidiaries (investment entities) and contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), the undertaking shall include the GHG emissions in accordance with the extent of the undertaking’s operational control over them.",
+        "alignment": "P",
+        "gaps": "#VALUE!"
+      },
+      {
+        "requirement": "E1-6: P47",
+        "requirement_text": "In case of significant changes in the definition of what constitutes the reporting undertaking and its upstream and downstream value chain, the undertaking shall disclose these changes and explain their effect on the year-to-year comparability of its reported GHG emissions (i.e., the effect on the comparability of current versus previous reporting period GHG emissions).",
+        "alignment": "N",
+        "gaps": "47: Reporting boundary changes and comparability impacts"
+      },
+      {
+        "requirement": "E1-6: P48",
+        "requirement_text": "The disclosure on gross Scope 1 GHG emissions required shall include :\n(a)the gross Scope 1 GHG emissions in metric tonnes of CO2eq; and\n(b) the percentage of Scope 1 GHG emissions from regulated emission trading schemes.",
+        "alignment": "P",
+        "gaps": "48(b): Percentage of Scope 1 emissions from regulated emission trading schemes"
+      },
+      {
+        "requirement": "E1-6: P49",
+        "requirement_text": "The disclosure on gross Scope 2 GHG emissions required shall include:\n(a)the gross location-based Scope 2 GHG emissions in metric tonnes of CO2eq; and\n(b)the gross market-based Scope 2 GHG emissions in metric tonnes of CO2eq.",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P50",
+        "requirement_text": "For Scope 1 and Scope 2 emissions disclosed as required, the undertaking shall disaggregate the information, separately disclosing emissions from:\n(a)the consolidated accounting group (the parent and subsidiaries); and,\n(b)investees such as associates, joint ventures, or unconsolidated subsidiaries that are not fully consolidated in the financial statements of the consolidated accounting group, as well as contractual arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled operations and assets), for which it has operational control.",
+        "alignment": "P",
+        "gaps": "50(b): Explicit associates/JVs/unconsolidated entities disaggregation."
+      },
+      {
+        "requirement": "E1-6: P51",
+        "requirement_text": "The disclosure of gross Scope 3 GHG emissions required shall include GHG emissions in metric tonnes of CO2eq from each significant Scope 3 category (i.e., each Scope 3 category that is a priority for the undertaking).",
+        "alignment": "F",
+        "gaps": "NA"
+      },
+      {
+        "requirement": "E1-6: P52",
+        "requirement_text": "The disclosure of total GHG emissions required shall be the sum of Scope 1, 2 and 3 GHG emissions. The total GHG emissions shall be disclosed with a disaggregation that makes distinction of:\n(a)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the location-based method; and,\n(b)the total GHG emissions derived from the underlying Scope 2 GHG emissions being measured using the market-based method.",
+        "alignment": "F",
+        "gaps": "NA"
+      }
+    ]
+  }
+]
