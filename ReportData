@@ -1,0 +1,32 @@
+[
+  {
+    "Company": "c_1",
+    "Url": "https://www.doco.com/Portals/8/dokumente/en/Hauptversammlung/2023/Sustainability_Report_2023.pdf",
+    "Page no. ": "20, 21, 22, 23"
+  },
+  {
+    "Company": "c_2",
+    "Url": "https://www.allegromicro.com/-/media/files/corporate-responsibility/allegro-2024-esg-final.pdf?sc_lang=en&hash=252A9FB6B0C105C0B6C6C9DA78CE9FE2",
+    "Page no. ": "23, 24"
+  },
+  {
+    "Company": "c_3",
+    "Url": "https://corporate.walgreens.com/wp-content/uploads/2025/09/Impact-Report-2024.pdf",
+    "Page no. ": "32, 33, 56"
+  },
+  {
+    "Company": "c_4",
+    "Url": "https://www.peabodyenergy.com/Peabody/media/MediaLibrary/2025_Peabody_Sustainability_Report.pdf",
+    "Page no. ": "16, 17, 49"
+  },
+  {
+    "Company": "c_5",
+    "Url": "https://www.avisbudgetgroup.com/content/dam/avisbudgetgroup/esg/downloadesgreport.pdf",
+    "Page no. ": "19, 48"
+  },
+  {
+    "Company": "c_6",
+    "Url": "https://group.banijay.com/wp-content/uploads/2025/03/BANIJAYGROUPURD2024EN28032025-1.pdf",
+    "Page no. ": "83, 84, 85"
+  }
+]
